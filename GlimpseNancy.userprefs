@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Consle/app.config">
+    <Files>
+      <File FileName="Consle/HomeModule.cs" Line="4" Column="25" />
+      <File FileName="Consle/Program.cs" Line="5" Column="25" />
+      <File FileName="Consle/Bootstrapper.cs" Line="6" Column="25" />
+      <File FileName="Consle/app.config" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jonathanchannon/Projects/GlimpseNancy/GlimpseNancy/HomeModule.cs" line="10" column="10" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
